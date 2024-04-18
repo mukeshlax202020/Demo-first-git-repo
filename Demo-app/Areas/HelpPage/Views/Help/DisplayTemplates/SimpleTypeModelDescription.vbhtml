@@ -1,0 +1,3 @@
+@Imports Demo_app.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
